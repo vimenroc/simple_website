@@ -1,0 +1,140 @@
+[
+  {
+    "id": 98765,
+    "nombre": "Juan",
+    "apellido": "González",
+    "correo": "juangonzalez@example.com"
+  },
+  {
+    "id": 54321,
+    "nombre": "María",
+    "apellido": "Rodríguez",
+    "correo": "mariarodriguez@example.com"
+  },
+  {
+    "id": 12345,
+    "nombre": "Pedro",
+    "apellido": "López",
+    "correo": "pedrolopez@example.com"
+  },
+  {
+    "id": 67890,
+    "nombre": "Ana",
+    "apellido": "Martínez",
+    "correo": "anamartinez@example.com"
+  },
+  {
+    "id": 13579,
+    "nombre": "Luis",
+    "apellido": "Hernández",
+    "correo": "luishernandez@example.com"
+  },
+  {
+    "id": 24680,
+    "nombre": "Laura",
+    "apellido": "Gómez",
+    "correo": "lauragomez@example.com"
+  },
+  {
+    "id": 97531,
+    "nombre": "Carlos",
+    "apellido": "Sánchez",
+    "correo": "carlossanchez@example.com"
+  },
+  {
+    "id": 86420,
+    "nombre": "Sofía",
+    "apellido": "Pérez",
+    "correo": "sofiaperez@example.com"
+  },
+  {
+    "id": 19283,
+    "nombre": "Diego",
+    "apellido": "Torres",
+    "correo": "diegotorres@example.com"
+  },
+  {
+    "id": 37462,
+    "nombre": "Isabella",
+    "apellido": "Ramírez",
+    "correo": "isabellaramirez@example.com"
+  },
+  {
+    "id": 87654,
+    "nombre": "Andrés",
+    "apellido": "Luna",
+    "correo": "andresluna@example.com"
+  },
+  {
+    "id": 43210,
+    "nombre": "Carolina",
+    "apellido": "Vargas",
+    "correo": "carolinavargas@example.com"
+  },
+  {
+    "id": 75319,
+    "nombre": "Fernando",
+    "apellido": "Silva",
+    "correo": "fernandosilva@example.com"
+  },
+  {
+    "id": 46802,
+    "nombre": "Gabriela",
+    "apellido": "Díaz",
+    "correo": "gabrieladiaz@example.com"
+  },
+  {
+    "id": 21938,
+    "nombre": "Roberto",
+    "apellido": "Herrera",
+    "correo": "robertoherrera@example.com"
+  },
+  {
+    "id": 63741,
+    "nombre": "Daniela",
+    "apellido": "Ortega",
+    "correo": "danielaortega@example.com"
+  },
+  {
+    "id": 52749,
+    "nombre": "Javier",
+    "apellido": "Ramos",
+    "correo": "javierramos@example.com"
+  },
+  {
+    "id": 41928,
+    "nombre": "Mariana",
+    "apellido": "Cruz",
+    "correo": "marianacruz@example.com"
+    },
+  {
+    "id": 81327,
+    "nombre": "Ricardo",
+    "apellido": "Mendoza",
+    "correo": "ricardomendoza@example.com"
+  },
+  {
+    "id": 60584,
+    "nombre": "Valentina",
+    "apellido": "Morales",
+    "correo": "valentinamorales@example.com"
+  },
+  {
+    "id": 35476,
+    "nombre": "Emilio",
+    "apellido": "García",
+    "correo": "emiliogarcia@example.com"
+  },
+  {
+    "id": 29173,
+    "nombre": "Lucía",
+    "apellido": "Paz",
+    "correo": "luciapaz@example.com"
+  },
+  {
+    "id": 87629,
+    "nombre": "Hugo",
+    "apellido": "Navarro",
+    "correo": "hugonavarro@example.com"
+  }
+]
