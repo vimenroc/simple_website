@@ -7,38 +7,81 @@ body{
 }
 
 footer{
+    margin-top: 10px;
     min-height: 50px;
     border-top: #ccc solid 1px;
     background: #3c3c3c;
 }
 .cover{
     width: 100%;
- }
- 
- @media screen and (min-width: 800px) {
+    filter: brightness(0.30);
+    z-index: 0;
+}
+
+.carousel-item img{
+    filter: brightness(0.3);
+}
+
+#cover-container{
+    background-image: url("./img/cover.jpg");
+}
+
+@media only screen and (max-width: 600px) {
     .cover {
         width: 100%;
     }
     #cover-container{
-        height: 150px;
+        min-height: 150px;
+        max-height: 150px;
         overflow: hidden;
     }
-  }
-  @media screen and (min-width: 1600px) {
+}
+
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
     .cover {
         width: 100%;
     }
-    #cover-container{
-        height: 200px;
+    #carouselExampleCaptions, .carousel-item{
+        min-height: 150px;
+        max-height: 150px;
         overflow: hidden;
     }
-  }
-  @media screen and (min-width: 1900px) {
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
     .cover {
         width: 100%;
     }
-    #cover-container{
-        height: 300px;
+    #carouselExampleCaptions, .carousel-item{
+        min-height: 250px;
+        max-height: 250px;
         overflow: hidden;
     }
-  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .cover {
+        width: 100%;
+    }
+    #carouselExampleCaptions, .carousel-item{
+        min-height: 250px;
+        max-height: 250px;
+        overflow: hidden;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .cover {
+        width: 100%;
+    }
+    #carouselExampleCaptions, .carousel-item{
+        min-height: 250px;
+        max-height: 250px;
+        overflow: hidden;
+    }
+}
